@@ -58,9 +58,21 @@ Step 3
 
 ---
 
-## Copyright & Disclaimer
+## License & Copyright
 
-注明原创整理内容与第三方软件、数据库、图片、商标等内容的权属边界。
+Unless otherwise stated, original Liqing-created tutorial content is licensed under **CC BY-NC-SA 4.0**.
+
+- Attribution to **Liqing / 李庆** is required.
+- Non-commercial sharing and adaptation are permitted under the license.
+- Changes must be indicated.
+- Adapted material must remain under the same or a compatible ShareAlike license.
+- Third-party software interfaces, trademarks, database content, figures and other third-party material are excluded from this license.
+
+See the repository-wide [LICENSE.md](../../LICENSE.md) and [COPYRIGHT.md](../../COPYRIGHT.md).
+
+## Disclaimer
+
+说明适用范围、版本差异、第三方权利边界及其他必要免责声明。
 
 ---
 
