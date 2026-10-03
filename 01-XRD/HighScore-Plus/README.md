@@ -282,7 +282,7 @@ Unless otherwise stated, original Liqing-created content in this tutorial is lic
 
 Third-party software interfaces, trademarks, database content, and other third-party material shown or referenced in this tutorial are excluded from this license and remain subject to their respective rights.
 
-See the repository-wide [LICENSE.md](../../LICENSE.md) and [COPYRIGHT.md](../../COPYRIGHT.md).
+See the repository-wide [LICENSE.md](../../LICENSE.md).
 
 ---
 
