@@ -48,9 +48,6 @@ Open
 
 **Version:** v1.0 · 2026  
 **Compiled by:** 李庆 Liqing  
-**Institution:** Sun Yat-sen University  
-**Lab:** Advanced Green Geo-Materials Lab
-
 ---
 
 ## License
