@@ -9,6 +9,7 @@
 [![Tutorials](https://img.shields.io/badge/LQ%20Tutorials-001-2f6f5e?style=flat-square)](#tutorial-library)
 [![Status](https://img.shields.io/badge/Status-Continuously%20Updated-6b7280?style=flat-square)](./CHANGELOG.md)
 [![Language](https://img.shields.io/badge/Language-中文%20%7C%20English-b89b5e?style=flat-square)](#)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-8b5e3c?style=flat-square)](./LICENSE.md)
 [![GitHub](https://img.shields.io/badge/GitHub-liqinglq666-181717?style=flat-square&logo=github)](https://github.com/liqinglq666)
 
 *Learn · Organize · Reproduce · Share*
@@ -24,6 +25,7 @@
 **[Knowledge Map](#knowledge-map)** ·
 **[Future Releases](#future-releases)** ·
 **[Tutorial Standard](#tutorial-standard)** ·
+**[License & Reuse](#license--reuse)** ·
 **[About Liqing](#about-liqing)**
 
 ---
@@ -152,6 +154,8 @@ Liqing-Tutorials/
 │
 ├── README.md
 ├── CHANGELOG.md
+├── LICENSE.md
+├── COPYRIGHT.md
 ├── TUTORIAL_TEMPLATE.md
 ├── assets/
 │   └── covers/
@@ -164,6 +168,27 @@ Liqing-Tutorials/
 ```
 
 随着教程增加，会继续扩展分类，而不是为每篇教程单独建立一个仓库。
+
+---
+
+## License & Reuse
+
+Original Liqing-created tutorial content in this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** unless otherwise stated.
+
+In short:
+
+- ✅ Personal study and non-commercial sharing
+- ✅ Translation, adaptation and derivative tutorials
+- ✅ Academic/laboratory redistribution with attribution
+- **Attribution to Liqing / 李庆 is required**
+- **Changes must be indicated**
+- **Adapted material must remain ShareAlike**
+- ❌ Commercial reuse is not granted without separate permission
+- ⚠️ Third-party software interfaces, trademarks, database content and other third-party material are not relicensed by this repository
+
+See **[LICENSE.md](./LICENSE.md)** for the repository license and **[COPYRIGHT.md](./COPYRIGHT.md)** for the detailed reuse and attribution rules.
+
+> Recommended attribution: **Liqing / 李庆, _Liqing Tutorials_, [Tutorial Title], version [x.x], CC BY-NC-SA 4.0.**
 
 ---
 
