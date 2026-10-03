@@ -66,9 +66,9 @@ Residual + Rwp / GOF + Physical Reasonableness
 
 ## Full PDF
 
-📘 **PDF:** [HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf](./HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf)
+📘 **完整教程 PDF：** [HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf](./HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf)
 
-> 如果当前链接暂时不可用，说明 PDF 文件尚未上传到本目录。
+可直接在 GitHub 中预览，也可以打开原文件查看完整 36 页教程。
 
 ---
 
