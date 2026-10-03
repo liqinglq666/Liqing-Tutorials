@@ -47,6 +47,5 @@
 <div align="center">
 
 **李庆 · Liqing**  
-[GitHub Profile](https://github.com/liqinglq666)
 
 </div>

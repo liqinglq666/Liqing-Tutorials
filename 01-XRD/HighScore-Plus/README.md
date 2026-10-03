@@ -17,41 +17,9 @@
 
 </div>
 
----
 
-## Overview
+背景处理、Kα₂ 去除、寻峰、物相识别与 Rietveld 定量精修。
 
-这是 **Liqing Tutorials / 李庆个人教程合集** 的第 001 篇教程。
+> 先去除 Kα₂，再寻峰；拟合判断需结合曲线、残差与参数合理性。
 
-内容覆盖 HighScore Plus 的 XRD 日常分析主流程：
-
-```text
-Open
-→ Determine Background
-→ Strip K-Alpha2
-→ Search Peaks
-→ Search & Match
-→ Phase Identification
-→ SemiQuant / Quantification
-→ Rietveld Refinement
-```
-
-主要包括背景处理、Kα₂ 去除、寻峰与人工复查、物相识别、结构信息检查、定量分析、Rwp / GOF 判断及进一步精修。
-
-> 核心操作原则：先去除 Kα₂，再寻峰；拟合结果不能只看 Rwp / GOF，还需结合曲线、残差、物相组合与参数合理性判断。
-
----
-
-## Tutorial
-
-📘 [**HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf**](./HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf)
-
-**Version:** v1.0 · 2026  
-**Compiled by:** 李庆 Liqing  
----
-
-## License
-
-原创内容采用 **CC BY-NC-SA 4.0**。第三方软件界面、商标及数据库内容归各自权利人所有。
-
-See [LICENSE.md](../../LICENSE.md).
+[CC BY-NC-SA 4.0](../../LICENSE.md)
