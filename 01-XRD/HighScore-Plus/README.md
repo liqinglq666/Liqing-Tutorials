@@ -276,6 +276,14 @@ HighScore Plus and related software interfaces, trademarks and proprietary datab
 
 Original tutorial text, annotations, workflow summaries and organization are compiled by **Liqing**.
 
+### License
+
+Unless otherwise stated, original Liqing-created content in this tutorial is licensed under **CC BY-NC-SA 4.0**. Attribution is required; non-commercial sharing and adaptation are permitted; adaptations must indicate changes and remain ShareAlike.
+
+Third-party software interfaces, trademarks, database content, and other third-party material shown or referenced in this tutorial are excluded from this license and remain subject to their respective rights.
+
+See the repository-wide [LICENSE.md](../../LICENSE.md) and [COPYRIGHT.md](../../COPYRIGHT.md).
+
 ---
 
 <div align="center">
