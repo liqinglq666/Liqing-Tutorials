@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#F5F2E9"/>
+  <rect x="0" y="0" width="1200" height="26" fill="#254F43"/>
+  <rect x="70" y="78" width="1060" height="564" rx="22" fill="#FBFAF6" stroke="#D8D2C3" stroke-width="2"/>
+  <text x="110" y="142" font-family="Arial, Helvetica, sans-serif" font-size="24" letter-spacing="2.2" fill="#6B756F">LIQING'S NOTES · LQ TUTORIAL 001</text>
+  <text x="110" y="230" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="70" fill="#21493E">HighScore Plus XRD</text>
+  <text x="110" y="300" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="52" fill="#2B2B2B">操作教程</text>
+  <text x="110" y="362" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#6A6258">XRD Data Processing · Phase Identification · Rietveld Refinement</text>
+  <line x1="110" y1="405" x2="1080" y2="405" stroke="#C9C2B4" stroke-width="2"/>
+  <text x="110" y="470" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#2F5A4E">Compiled by 李庆 Liqing</text>
+  <text x="110" y="510" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#777168">Personal research workflow · Version 1.0 · 2026</text>
+
+  <polyline points="110,602 160,602 186,598 205,602 248,602 270,575 288,602 330,602 356,590 374,602 420,602 448,535 466,602 520,602 545,582 560,602 620,602 650,560 668,602 734,602 758,588 774,602 846,602 870,548 889,602 954,602 976,593 994,602 1080,602"
+            fill="none" stroke="#B18B52" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="1080" y="680" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#8A857A">liqinglq666 / Liqing-Tutorials</text>
+</svg>
