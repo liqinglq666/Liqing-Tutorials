@@ -26,6 +26,14 @@
 
 ---
 
+## LQ Tutorial 002 · CemGEMS 水化模拟教程
+
+**热力学原理 · 配比建模 · 水化过程模拟 · 结果解读**
+
+[**完整 PDF →**](./02-Hydration/CemGEMS/CemGEMS_Tutorial_Liqing_v1.0.pdf)
+
+---
+
 <sub>
 原创内容采用 CC BY-NC-SA 4.0；第三方软件界面、商标及数据库内容归各自权利人所有。
 </sub>
