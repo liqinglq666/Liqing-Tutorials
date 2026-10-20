@@ -15,14 +15,14 @@ Personal research tutorials and practical notes.
 ## LQ Tutorial 001 · HighScore Plus XRD 操作教程
 
 <p align="center">
-  <a href="./01-XRD/HighScore-Plus/HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf">
+  <a href="./01-XRD/HighScore-Plus/HighScore_Plus_XRD_Tutorial_Liqing_v1.1.pdf">
     <img src="./assets/covers/LQ-Tutorial-001-cover.svg" width="720" alt="LQ Tutorial 001 · HighScore Plus XRD 操作教程">
   </a>
 </p>
 
 **XRD Data Processing · Phase Identification · Rietveld Refinement**
 
-[**Download PDF →**](./01-XRD/HighScore-Plus/HighScore_Plus_XRD_Tutorial_Liqing_v1.0.pdf)
+[**Download PDF →**](./01-XRD/HighScore-Plus/HighScore_Plus_XRD_Tutorial_Liqing_v1.1.pdf)
 
 ---
 
