@@ -26,17 +26,17 @@ Personal research tutorials and practical notes.
 
 ---
 
-## LQ Tutorial 002 · CemGEMS 水化模拟教程
+## LQ Tutorial 002 · CemGEMS 水化模拟操作教程
 
 <p align="center">
-  <a href="./02-Hydration/CemGEMS/CemGEMS_Tutorial_Liqing_v1.0.pdf">
-    <img src="./assets/covers/LQ-Tutorial-002-cover.svg" width="720" alt="LQ Tutorial 002 · CemGEMS 水化模拟教程">
+  <a href="./02-Hydration/CemGEMS/CemGEMS_Tutorial_Liqing_v1.1.pdf">
+    <img src="./assets/covers/LQ-Tutorial-002-cover.svg" width="720" alt="LQ Tutorial 002 · CemGEMS 水化模拟操作教程">
   </a>
 </p>
 
 **Thermodynamic Modeling · Hydration Simulation · Phase Evolution**
 
-[**Download PDF →**](./02-Hydration/CemGEMS/CemGEMS_Tutorial_Liqing_v1.0.pdf)
+[**Download PDF →**](./02-Hydration/CemGEMS/CemGEMS_Tutorial_Liqing_v1.1.pdf)
 
 ---
 
